@@ -1,0 +1,21 @@
+MANGUELITO OFFICIAL STORE — INSTRUCCIONES RÁPIDAS
+
+1. Descomprime este archivo.
+2. Sube TODO su contenido a la raíz de un repositorio público de GitHub.
+3. En GitHub activa: Settings > Pages > Deploy from a branch > main > /(root).
+4. El catálogo lee automáticamente el archivo Productos.xlsx de la raíz.
+5. Para actualizar productos, precios, existencias o la agrupación visual:
+   - edita Productos.xlsx;
+   - usa Categoria y Subcategoria únicamente para organizar el menú y las secciones; no se muestran como datos del producto;
+   - conserva los encabezados indicados en la hoja “Instrucciones”;
+   - reemplaza el archivo en GitHub y confirma el cambio.
+6. Para agregar imágenes, usa el mismo nombre escrito en las columnas Miniatura e Imagen ampliada:
+   assets/productos/catalogo/
+   assets/productos/ampliadas/
+7. Los WhatsApp configurados son:
+   +57 310 521 8993
+   +57 312 679 1685
+8. IMPORTANTE: el Productos.xlsx incluido es una copia pública sin costos internos.
+   Nunca subas el Excel privado con costo, utilidad o precio de factura.
+9. No se requiere Supabase, API, servidor, tarjeta de crédito ni servicio de pago.
+10. Lee README.md para conocer las limitaciones inevitables de GitHub Pages sobre consecutivos e inventario global.
